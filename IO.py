@@ -1,4 +1,4 @@
-#-*- coding=utf-8 -*_
+#-*- coding:utf-8 -*_
 #输出使用[print] 多个语句可以用 逗号连接“,” 遇到逗号输出空格
 print "To live as a monster","or die as a good man"
 
